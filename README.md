@@ -14,14 +14,32 @@
 
 ## Quick Start
 
-### Try it
+### GitHub template
 
-1. GitHub Template
+[Create a repo from this template on GitHub.](https://github.com/yaxingson/awsse/generate)
 
-2. Clone to local
-
-3. Cli
+> Note: Include all branches is required!
 
 
-### Usage
+### Clone to local
+
+```bash
+npx degit yaxingson/awsse#<template> my-awsse-app
+
+cd my-awsse-app
+
+pnpm i
+
+```
+
+### Use cli
+
+```bash
+npx awsse 
+
+```
+
+
+
+## Usage
 
