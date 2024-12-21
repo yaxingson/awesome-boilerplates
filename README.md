@@ -1,4 +1,4 @@
-![](./logo.png)
+![](https://g.cloudimg.cc/2024/12/21/11cn9l5.webp)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/thecodingmachine/react-native-boilerplate" />
