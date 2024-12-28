@@ -1,0 +1,13 @@
+{
+  "name": "create-awsse",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin":{
+    
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "yaxingson <3228891558@qq.com>",
+  "license": "MIT"
+}
