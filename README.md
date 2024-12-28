@@ -15,6 +15,7 @@
 ```sh
 npx awsse
 
+# or npm init awsse@latest
 npm create awsse@latest
 
 ```
