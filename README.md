@@ -15,6 +15,7 @@
 ```sh
 npx awsse
 
+npm create awsse@latest
 
 ```
 
